@@ -1,6 +1,6 @@
 name: MSDO ubuntu-latest
 on:
-  pull_request:
+  pull_request: {}
   push:
     branches:
       - main
